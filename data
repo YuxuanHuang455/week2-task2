@@ -1,1 +1,6 @@
-data/README.md
+cd stats201_microexp_project
+git init
+git remote add origin https://github.com/<你的用户名>/<仓库名>.git
+git add .
+git commit -m "Initial commit for Stats201 micro-expression project"
+git push -u origin master   # 或 main，根据 GitHub 默认分支
