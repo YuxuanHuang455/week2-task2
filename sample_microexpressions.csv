@@ -1,0 +1,9 @@
+subject_id,dataset,fps,width,height,label,onset_frame,apex_frame,notes
+1,CASME II,200,340,280,Disgust,123,140,Example timings
+2,SAMM,200,400,400,Surprise,45,60,—
+3,SMIC,100,640,480,Positive,210,230,—
+4,CASME3,200,1280,720,Negative,300,320,Depth available in full set
+5,CASME3,200,1280,720,Other,510,525,Macro vs micro flags in full set
+6,CASME II,200,340,280,Surprise,88,101,—
+7,SAMM,200,400,400,Negative,77,95,—
+8,SMIC,100,640,480,Other,33,45,—
