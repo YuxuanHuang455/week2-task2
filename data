@@ -3,4 +3,4 @@ git init
 git remote add origin https://github.com/<YuxuanHuang455>/<week2-task2>.git
 git add .
 git commit -m "Initial commit for Stats201 micro-expression project"
-git push -u origin master   # 或 main，根据 GitHub 默认分支
+git push -u origin master
